@@ -2,11 +2,8 @@
    
    ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌Welcome🙌&desc=Hyun%20Tae's%20Techs%20World&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
    
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
-
-   ![Hyun Tae's GitHub stats](https://github-readme-stats.vercel.app/api?username=moht825&theme=chartreuse-dark&show_icons=true)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moht825&layout=compact&theme=tokyonight)
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moht825)](https://solved.ac/moht825/)
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)
+   
 </div>
 
 # 💪 Tech Stack
@@ -35,7 +32,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moht825@gmail.com)](mailto:moht825@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:moht825@naver.com)](mailto:moht825@naver.com)
 
-<br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
 <div align="left">
@@ -65,9 +61,11 @@
       <td>Dassault Systemes</td>
       <td>2024. 07. 07</td>            
     </tr>
+  </table>
 
-
-
+   ![Hyun Tae's GitHub stats](https://github-readme-stats.vercel.app/api?username=moht825&theme=chartreuse-dark&show_icons=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moht825&layout=compact&theme=tokyonight)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moht825)](https://solved.ac/moht825/)
 
 
 
