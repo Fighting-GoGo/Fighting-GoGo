@@ -2,7 +2,7 @@
    
    ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌Welcome🙌&desc=Hyun%20Tae's%20Techs%20World&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
    
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)
+   ![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moht825&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
    
 </div>
 
