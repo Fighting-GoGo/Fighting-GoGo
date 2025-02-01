@@ -4,6 +4,7 @@
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
 
    ![Hyun Tae's GitHub stats](https://github-readme-stats.vercel.app/api?username=moht825&theme=chartreuse-dark&show_icons=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moht825)](https://solved.ac/moht825/)
 </div>
 
