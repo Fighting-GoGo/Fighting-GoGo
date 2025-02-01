@@ -51,7 +51,7 @@
 <h3 align="left">📜 Certifications 📜</h3>
 <div align="left">
   <table>
-    <tr>
+    <tr align="center">
       <td><strong>자 격 명</strong></td>
       <td><strong>발급기관</strong></td>
       <td><strong>취득일자</strong></td>
