@@ -1,6 +1,7 @@
 <div align="center">
    
-   # Welcome to "MO HYUN TAE" 'S Github 👋
+   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌Welcome🙌&desc=Hyun%20Tae's%20Techs%20World&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
+   
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
 
    ![Hyun Tae's GitHub stats](https://github-readme-stats.vercel.app/api?username=moht825&theme=chartreuse-dark&show_icons=true)
@@ -8,9 +9,9 @@
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moht825)](https://solved.ac/moht825/)
 </div>
 
-# 💪Skills
+# 💪 Tech Stack
 
-## STUDY (Currently)
+## Techs that I've used at least once
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 
@@ -36,7 +37,7 @@
 
 <br>
 <!-- Profile -->
-<h3 align="left">💼 Career 💼</h3>
+<h3 align="left">💼 Profile 💼</h3>
 <div align="left">
   <ul>
     <li><strong>평택비전고등학교</strong> - (2021.03 ~ 2024.02)<br></li>
