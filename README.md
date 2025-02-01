@@ -36,16 +36,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:moht825@naver.com)](mailto:moht825@naver.com)
 
 <br>
-<!-- Profile -->
-<h3 align="left">💼 Profile 💼</h3>
-<div align="left">
-  <ul>
-    <li><strong>평택비전고등학교</strong> - (2021.03 ~ 2024.02)<br></li>
-    <li><strong>한라대학교</strong> - 미래모빌리티공학과 (2024.03 ~ 현재)<br></li>
-  </ul>
-</div>
-
-<br>
 <!-- Certifications -->
 <h3 align="left">📜 Certifications 📜</h3>
 <div align="left">
